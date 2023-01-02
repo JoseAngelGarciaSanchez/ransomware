@@ -6,8 +6,9 @@
 Creating a ransomware from scratch to understand better how a ransomware works. It is based on cryptography librairie with Fernet encryptation. Fernet is a symmetric encryption method which makes sure that the message encrypted cannot be manipulated/read without the key. It uses URL safe encoding for the keys. Fernet also uses 128-bits AES. look PatrikH0lop/malware_showcase Github
 
 In this repository, you will find the following elements:
-* A canva presentation 'Datamuse' to explain the purpose of our project. 
-* A webapp folder and an app_docker folder
+* Three text files for testing the ransomware : file.txt, file2.txt, pleasedonthurtme.txt
+* The ransomware :bug: : Voldermort.py
+* The decrypt script : decrypt.py
 
 ## Problematic
 
