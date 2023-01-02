@@ -26,11 +26,11 @@ The first part is the console version of the final application, our "beta-applic
 
 1. Clone the repository
 ```sh
-thttps://github.com/Pse1234/ransomware.git
+https://github.com/Pse1234/ransomware.git
 ```
 2. Change your current working directory
 ```sh
-cd app_docker
+cd ransomware
 ```
 3. Install required dependencies
 ```sh
