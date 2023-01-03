@@ -36,9 +36,9 @@ cd ransomware
 ```sh
 source install.sh
 ```
-3. Launch the application with the keyword of your choice (keep in mind to translate your searches in french 🇫🇷 for example : Louvre)
+3. Launch the application
 ```sh
-bash launch.sh [keyword]
+python voldemort.py
 ```
 
 <!-- WEB APP -->
