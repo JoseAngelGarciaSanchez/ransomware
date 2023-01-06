@@ -10,11 +10,6 @@ In this repository, you will find the following elements:
 * The ransomware :bug: : Voldermort.py
 * The decrypt script : decrypt.py
 
-## Problematic
-
-After spending several days in Paris or living permanently in Paris, you have already visited all the museums. What activity can I do? Less known museums, concerts, shows... Write what you want and we will advise you!
-
-The project is built in two parts. 
 <br>
 
 
@@ -41,25 +36,8 @@ source install.sh
 python voldemort.py
 ```
 
-<!-- WEB APP -->
-## Web application
-Our Webapp allows users to receive recommendations using NLP and similarity computing with the TF-IDF cosine similarity matrix.
-The app is hosted on the local machine at http://localhost:8000/.
-
-The main page, or "Home", is just a simple user guide for the app!
-After mastering the console application and having dockerized it, we challenged ourselves by creating a web application using the django package.
-
-- Created Django form with the research key-word to be entered
-- Created views for index page and prediction page. The predict view inputs the key-word as values to the NLP model. (File: webapp/linux_app/views.py)
-- The model outputs the label index of the recommended cultural events. The title and other information of the events recommended are fetched from the api downloaded file of https://opendata.paris.fr/ (File: data.csv).
-- An HTML page is rendered with that serves as a home page to explain the purpose of the project to the user (File: webapp/linux_app/templates/result.html)
-- An HTML page is rendered with the form and the recommended events. (File: webapp/linux_app/templates/result.html)
-
 ## Note
-* Our Web App is ready for deployement in a web server but a .env file with manage.py : debug and secret_key must be created to maintain a certain security level.
-* Link to our presentation on canva : https://www.canva.com/design/DAFVY1C0EO4/q6OMxjwykrttN0HMmBHwcA/view?utm_content=DAFVY1C0EO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-* [Datamuse .pdf](https://github.com/sarrabenyahia/datamuse/files/10300785/Datamuse.4.pdf)
-
+** Look the github repository of 
 
 ## Contact
 * [José Ángel García Sánchez 👨🏻‍💻](https://github.com/Pse1234) 
