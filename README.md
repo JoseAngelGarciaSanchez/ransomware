@@ -37,7 +37,7 @@ python voldemort.py
 ```
 
 ## Note
-* Look the github repository of [Patrick H0lop - Malware Showcase](https://github.com/PatrikH0lop/malware_showcase)
+* Look the github repository of [Patrick H0lop - Malware Showcase](https://github.com/PatrikH0lop/malware_showcase) for more info.
 
 ## Contact
 * [José Ángel García Sánchez 👨🏻‍💻](https://github.com/Pse1234) 
