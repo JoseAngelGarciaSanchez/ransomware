@@ -3,7 +3,7 @@
 <br>
 
 ## About the Project
-Creating a ransomware from scratch to understand better how a ransomware works. It is based on cryptography librairy with Fernet encryptation. Fernet is a symmetric encryption method which makes sure that the message encrypted cannot be manipulated/read without the key. It uses URL safe encoding for the keys. Fernet also uses 128-bits AES. look PatrikH0lop/malware_showcase Github
+Creating a ransomware from scratch to understand better how a ransomware works. It is based on cryptography librairy with Fernet encryptation. Fernet is a symmetric encryption method which makes sure that the message encrypted cannot be manipulated/read without the key. It uses URL safe encoding for the keys. Fernet also uses 128-bits AES.
 
 In this repository, you will find the following elements:
 * Three text files for testing the ransomware : file.txt, file2.txt, pleasedonthurtme.txt
@@ -37,7 +37,7 @@ python voldemort.py
 ```
 
 ## Note
-** Look the github repository of 
+* Look the github repository of [Patrick H0lop - Malware Showcase] (https://github.com/PatrikH0lop/malware_showcase)
 
 ## Contact
 * [José Ángel García Sánchez 👨🏻‍💻](https://github.com/Pse1234) 
